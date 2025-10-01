@@ -52,7 +52,7 @@ spec:
         dapr.io/enabled: "true"
         dapr.io/app-id: "myapp"
         dapr.io/app-port: "8000"
-        dapr.io/max-body-size: "16"
+        dapr.io/max-body-size: "16Mi"
 #...
 ```
 
